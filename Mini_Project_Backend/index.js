@@ -22,9 +22,9 @@ app.use(bodyParser.json());
 
 
 const openai = new OpenAI({
-    organization: 'org-zpySGvnOnlFNagHPvLoK5QST',
-    project: 'proj_geLMpnM68arjqHEITN6nTy1c',
-    apiKey: process.env.SOHAN_KEY,
+    organization: 'YOUR_ORGANIZATION_ID',
+    project: 'YOUR_PROJECT_ID',
+    apiKey: process.env.OPEN_API_KEY,
 });
 
 

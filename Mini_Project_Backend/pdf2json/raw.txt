@@ -1,0 +1,133 @@
+Common to CSE and allied stream branches of engineering only      1  
+ 
+ 
+BIOLOGY FOR ENGINEERS (CSE) Semester IV 
+Course Code BBOK407 CIE Marks 50 
+Teaching Hours/Week (L:T:P: S) 2:0:0:0 SEE Marks 50 
+Total Hours of Pedagogy 25 Total Marks 100 
+Credits 02 Exam Hours 3 
+Examination type (SEE) Theory 
+ Course objectives: 
+ To familiarize the students with the basic biological concepts and their engineering 
+applications.  
+  To enable the students with an understanding of biodesign principles to create novel 
+devices and structures.  
+  To provide the students an appreciation of how biological systems can be re-designed as 
+substitute products for natural systems.  
+ To motivate the students to develop interdisciplinary vision of biological engineering. 
+ Teaching-Learning Process (General Instructions) 
+These are sample Strategies, which teachers can use to accelerate the attainment of the various course 
+outcomes.  
+1. Explanation via real life problem, situation modelling, and deliberation of solutions, hands-on 
+sessions, reflective and questioning /inquiry-based teaching. 
+2. Instructions with interactions in classroom lectures (physical/hybrid). 
+3. Use of ICT tools, including YouTube videos, related MOOCs, AR/VR/MR tools. 
+4. Flipped classroom sessions (~10% of the classes). 
+5. Industrial visits, Guests talks and competitions for learning beyond the syllabus. 
+6. Students’ participation through audio-video based content creation for the syllabus (as 
+assignments). 
+7. Use of gamification tools (in both physical/hybrid classes) for creative learning outcomes. 
+8. Students’ seminars (in solo or group) /oral presentations. 
+Module-1 (5 Hours) 
+CELL BASIC UNIT OF LIFE 
+Introduction.  Structure  and  functions  of  a  cell.  Stem  cells  and  their  application.  Biomolecules:  Properties 
+and  functions  of  Carbohydrates,  Nucleic  acids,  proteins,  lipids.  Importance  of  special  biomolecules: 
+Properties and functions of enzymes, vitamins and hormones. 
+Module-2(5 Hours) 
+APPLICATION OF BIOMOLECULES 
+Carbohydrates in cellulose-based water filters production, PHA and PLA in bioplastics production, Nucleic 
+acids in vaccines and diagnosis, Proteins in  food production, lipids in biodiesel and detergents production, 
+Enzymes in biosensors fabrication, food processing, detergent formulation and textile processing. 
+Module-3(5 Hours) 
+ADAPTATION OF ANATOMICAL PRINCIPLES FOR BIOENGINEERING DESIGN 
+Brain  as  a  CPU  system.  Eye  as  a  Camera  system.  Heart  as  a  pump  system.   Lungs  as  purification  system. 
+Kidney as a filtration system. 
+Module-4 (5 Hours) 
+NATURE-BIOINSPIRED MATERIALS AND MECHANISMS:  
+Echolocation,  Photosynthesis.  Bird  flying,  Lotus  leaf  effect,  Plant  burrs,  Shark  skin, Kingfisher  beak.  Human 
+Blood substitutes - hemoglobin-based oxygen carriers (HBOCs) and perflourocarbons (PFCs). 
+Module-5(5 Hours) 
+TRENDS IN BIOENGINEERING:  
+Muscular  and  Skeletal  Systems  as  scaffolds,  scaffolds  and  tissue  engineering,  Bioprinting  techniques  and 
+materials. Electrical tongue and electrical nose in food science, DNA origami and Biocomputing, Bioimaging 
+and Artificial Intelligence for disease diagnosis. Bioconcrete. Bioremediation. Biomining. 
+19.07.2023
+BBOC407
+----------------Page (0) Break----------------
+Common to CSE and allied stream branches of engineering only      2  
+ 
+ 
+Course outcome (Course Skill Set)  
+At the end of the course, the student will be able to : 
+1. Elucidate the basic biological concepts via relevant industrial applications and case studies.  
+2. Evaluate the principles of design and development, for exploring novel bioengineering projects.  
+3. Corroborate the concepts of biomimetics for specific requirements.  
+4. Think critically towards exploring innovative biobased solutions for socially relevant problems. 
+Assessment Details (both CIE and SEE)  
+The weightage of Continuous Internal Evaluation (CIE) is 50% and for Semester End Exam (SEE) is 
+50%. The minimum passing mark for the CIE is 40% of the maximum marks (20 marks out of 50) 
+and  for  the  SEE  minimum  passing  mark  is  35%  of  the  maximum  marks  (18  out  of  50 marks).  A 
+student  shall  be  deemed  to  have  satisfied  the  academic  requirements  and  earned  the  credits 
+allotted to each subject/ course if the student secures a minimum of 40% (40 marks out of 100) in 
+the  sum  total  of  the  CIE  (Continuous  Internal  Evaluation)  and  SEE  (Semester  End  Examination) 
+taken together.  
+ 
+Continuous Internal Evaluation:  For the Assignment component of the CIE, there are 25 marks and for the Internal Assessment 
+Test component, there are 25 marks. 
+ The  first  test  will  be  administered  after  40-50%  of  the  syllabus  has  been  covered,  and  the 
+second test will be administered after 85-90% of the syllabus has been covered 
+ Any two assignment methods mentioned in the 22OB2.4, if an assignment is project-based then 
+only one assignment for the course shall be planned.  The teacher should not conduct two 
+assignments at the end of the semester if two assignments are planned.  
+ For the course, CIE marks will be based on a scaled-down sum of two tests and other methods 
+of assessment. 
+Internal   Assessment   Test   question   paper   is   designed   to   attain   the   different   levels   of   Bloom’s 
+taxonomy as per the outcome defined for the course.  
+Semester-End Examination: 
+Theory  SEE  will  be  conducted  by  University  as  per  the  scheduled  timetable,  with  common  question  papers 
+for the course (duration 03 hours). 
+1. The question paper will have ten questions. Each question is set for 20 marks. 
+2. There  will  be  2  questions  from  each  module.  Each  of  the  two  questions  under  a  module  (with  a 
+maximum of 2 sub-questions), should have a mix of topics under that module. 
+3. The students have to answer 5 full questions, selecting one full question from each module.  
+4. Marks scored shall be proportionally reduced to 50 marks
+. 
+Suggested Learning Resources: 
+Books 
+ Biology for Engineers, Rajendra Singh C and Rathnakar Rao N, Rajendra Singh C and Rathnakar Rao 
+N Publishing, Bengaluru, 2023. 
+ Human Physiology, Stuart Fox, Krista Rompolski, McGraw-Hill eBook. 16th Edition, 2022  
+ Biology  for  Engineers,  Thyagarajan  S.,  Selvamurugan  N.,  Rajesh  M.P.,  Nazeer  R.A.,  Thilagaraj  W., 
+Barathi S., and Jaganthan M.K., Tata McGraw-Hill, New Delhi, 2012.  
+ Biology for Engineers, Arthur T. Johnson, CRC Press, Taylor and Francis, 2011  
+ Biomedical Instrumentation, Leslie Cromwell, Prentice Hall 2011.  
+ Biology for Engineers, Sohini Singh and Tanu Allen, Vayu Education of India, New Delhi, 2014.  
+ Biomimetics: Nature-Based Innovation, Yoseph Bar-Cohen, 1st edition, 2012, CRC Press.  
+ Bio-Inspired   Artificial   Intelligence:   Theories,   Methods   and   Technologies,   D.   Floreano   and   C. 
+Mattiussi, MIT Press, 2008.  
+ Bioremediation   of   heavy   metals:   bacterial   participation,   by   C   R   Sunilkumar,   N   GeethaA   C 
+Udayashankar Lambert Academic Publishing, 2019.  
+19.07.2023
+----------------Page (1) Break----------------
+Common to CSE and allied stream branches of engineering only      3  
+ 
+ 
+ 3D  Bioprinting:  Fundamentals,  Principles  and  Applications  by  Ibrahim  Ozbolat,  Academic  Press, 
+2016.  
+  Electronic Noses and Tongues in Food Science, Maria Rodriguez Mende, Academic Press, 2016 
+Web links and Video Lectures (e-Resources):    
+ https://nptel.ac.in/courses/121106008  
+ https://freevideolectures.com/course/4877/nptel-biology-engineers-other-non-biologists  
+ https://ocw.mit.edu/courses/20-020-introduction-to-biological-engineering-design-spring-2009  
+ https://ocw.mit.edu/courses/20-010j-introduction-to-bioengineering-be-010j-spring-2006  
+ https://www.coursera.org/courses?query=biology  
+ https://onlinecourses.nptel.ac.in/noc19_ge31/preview  
+ https://www.classcentral.com/subject/biology  
+ https://www.futurelearn.com/courses/biology-basic-concepts  
+Activity Based Learning (Suggested Activities in Class)/ Practical Based learning 
+ Group Discussion of Case studies  
+ Model Making and seminar/poster presentations  
+ Design of novel device/equipment like Cellulose-based water filters, Filtration system 
+ 
+19.07.2023
+----------------Page (2) Break----------------

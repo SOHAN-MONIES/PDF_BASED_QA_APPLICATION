@@ -58,10 +58,6 @@ cd PDF_BASED_QA_APPLICATION
     ```bash
     npm install
     ```
-3. Create a `.env.local` file:
-    ```plaintext
-    NEXT_PUBLIC_API_URL=http://localhost:5000
-    ```
 4. Start the development server:
     ```bash
     npm run dev
